@@ -2,7 +2,7 @@
 
 -----------------------------------------------------
 
-FRENCH TRADUCTION 
+🇫🇷 FRENCH TRADUCTION 
 
 -----------------------------------------------------
 
@@ -24,7 +24,7 @@ APPRENDRE A SE LANCER DANS L'INFORMATIQUE C'EST ETRE SOUMIS A DES RISQUES ! IL E
 
 -----------------------------------------------------
 
-ENGLISH TRADUCTION 
+🇺🇸 ENGLISH TRADUCTION 
 
 -----------------------------------------------------
 
